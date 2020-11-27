@@ -5,7 +5,7 @@
 - Fiji – IJPB-plugins (add through Updater)
 
 ## Before script
-Stain gusA marked nodules and photograph on white background.
+Stain _celB_ marked nodules and photograph on white background.
 Crop images as tight as possible while including all nodules.
 
 Train Weka Segmentation model on several training images.
